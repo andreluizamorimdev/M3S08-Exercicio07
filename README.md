@@ -9,5 +9,5 @@ instalar dependencias do server e executar
 ```cmd
   cd server
   npm install
-  node index.js
+  node server.js
 ```
